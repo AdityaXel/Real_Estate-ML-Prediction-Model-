@@ -1,1 +1,1 @@
-# Real_Estate-ML-Prediction-Model-
+Real Price Predictor is a machine learning project for predicting real estate prices using property features. It supports Linear Regression, Decision Tree, and Random Forest models, and includes data preprocessing and feature engineering for improved accuracy. Random Forest provides the best results, making this tool simple and effective for real estate price prediction
